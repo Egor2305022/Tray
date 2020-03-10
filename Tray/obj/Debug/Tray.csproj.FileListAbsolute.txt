@@ -1,0 +1,9 @@
+C:\Users\Xiaomi\source\repos\Tray\Tray\bin\Debug\Tray.exe.config
+C:\Users\Xiaomi\source\repos\Tray\Tray\bin\Debug\Tray.exe
+C:\Users\Xiaomi\source\repos\Tray\Tray\bin\Debug\Tray.pdb
+C:\Users\Xiaomi\source\repos\Tray\Tray\obj\Debug\Tray.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\Tray\Tray\obj\Debug\Tray.Form1.resources
+C:\Users\Xiaomi\source\repos\Tray\Tray\obj\Debug\Tray.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\Tray\Tray\obj\Debug\Tray.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\Tray\Tray\obj\Debug\Tray.exe
+C:\Users\Xiaomi\source\repos\Tray\Tray\obj\Debug\Tray.pdb
